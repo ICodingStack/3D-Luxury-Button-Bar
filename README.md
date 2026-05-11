@@ -29,7 +29,7 @@ Capture a short (15-25 seconds) high-quality video or GIF showcasing the smooth 
 ## ⚙️ How to Run Locally
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourICodingStack/3D-Luxury-Button-Bar.git
+    git clone https://github.com/ICodingStack/3D-Luxury-Button-Bar.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -42,4 +42,4 @@ Capture a short (15-25 seconds) high-quality video or GIF showcasing the smooth 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Credit
-Created by Manus AI for a showcase of ultra-premium web UI/UX development.
+Created by BlackBirdo.
