@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Luxury Button Bar | Cinematic UI Experience</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Google Fonts: Elegant Serif and Modern Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Background Elements -->
+    <div class="luxury-bg">
+        <canvas id="particle-canvas"></canvas>
+        <div class="noise-overlay"></div>
+    </div>
+
+    <!-- Main Container -->
+    <main class="container">
+        <header class="header">
+            <h1 class="title">3D Luxury Button Bar</h1>
+            <p class="subtitle">Experience the pinnacle of digital craftsmanship</p>
+        </header>
+
+        <!-- The Button Bar Container -->
+        <div class="button-bar-wrapper">
+            <!-- Light reflection that follows the mouse -->
+            <div class="mouse-glow" id="mouse-glow"></div>
+            
+            <nav class="button-bar">
+                <button class="luxury-btn" data-label="Discover">
+                    <canvas class="liquid-canvas"></canvas>
+                    <span class="btn-content">Discover</span>
+                    <div class="btn-shine"></div>
+                </button>
+                <button class="luxury-btn" data-label="Elevate">
+                    <canvas class="liquid-canvas"></canvas>
+                    <span class="btn-content">Elevate</span>
+                    <div class="btn-shine"></div>
+                </button>
+                <button class="luxury-btn" data-label="Acquire">
+                    <canvas class="liquid-canvas"></canvas>
+                    <span class="btn-content">Acquire</span>
+                    <div class="btn-shine"></div>
+                </button>
+                <button class="luxury-btn" data-label="Connect">
+                    <canvas class="liquid-canvas"></canvas>
+                    <span class="btn-content">Connect</span>
+                    <div class="btn-shine"></div>
+                </button>
+                <button class="luxury-btn" data-label="Indulge">
+                    <canvas class="liquid-canvas"></canvas>
+                    <span class="btn-content">Indulge</span>
+                    <div class="btn-shine"></div>
+                </button>
+            </nav>
+        </div>
+
+        <footer class="footer">
+            <p>Made for showcase • Pure HTML/CSS/JS</p>
+        </footer>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
