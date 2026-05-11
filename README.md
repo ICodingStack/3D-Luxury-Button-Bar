@@ -4,7 +4,7 @@
 A breathtaking 5-button horizontal luxury bar that looks like it was carved from real crystal and polished metal. The entire UI is designed to feel extremely premium, cinematic, and "wow" to instantly grab attention and showcase a $10,000 design aesthetic.
 
 ## 🚀 Live Demo
-[Live Demo Placeholder](https://your-live-demo-link-here.com)
+[Live Demo Placeholder](https://icodingstack.github.io/3D-Luxury-Button-Bar/)
 
 ## 📸 Screenshot/GIF Recommendation
 Capture a short (15-25 seconds) high-quality video or GIF showcasing the smooth background animation, the subtle particle effects, and especially the luxurious liquid metal/gold fill effect on button hover. Focus on the volumetric lighting, specular reflections, and the overall 3D depth to highlight the premium feel.
@@ -29,11 +29,11 @@ Capture a short (15-25 seconds) high-quality video or GIF showcasing the smooth 
 ## ⚙️ How to Run Locally
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/3d-luxury-button-bar.git
+    git clone https://github.com/yourICodingStack/3D-Luxury-Button-Bar.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd 3d-luxury-button-bar
+    cd 3D-Luxury-Button-Bar
     ```
 3.  **Open `index.html`:**
     Simply open the `index.html` file in your preferred web browser. No local server is required as it's a pure static HTML/CSS/JS project.
